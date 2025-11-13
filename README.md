@@ -1,2 +1,3 @@
-# Team-collaboration-demo
-sample project for git teamwork
+# About Me
+Hi! I'm Dave, and i worked on the Main Page
+
